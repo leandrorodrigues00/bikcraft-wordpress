@@ -50,7 +50,7 @@ $ git clone https://github.com/leandrorodrigues00/bikcraft-wordpress
 
 ```
 
-The main purpose of Local is to make it easier to install and manage instances of WordPress in your local development environment. It automatically installs WordPress on your computer, creating a complete development environment ready for use.
+The main purpose of [Local](https://localwp.com/) is to make it easier to install and manage instances of WordPress in your local development environment. It automatically installs WordPress on your computer, creating a complete development environment ready for use.
 
 To start using the project, clone this repository into your WordPress themes folder. You can do this at: `your-folder\app\public\wp-content\themes`. Make sure you already have WordPress with the [local](https://localwp.com/) .
 
